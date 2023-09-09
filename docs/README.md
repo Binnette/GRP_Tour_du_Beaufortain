@@ -4,6 +4,10 @@
 
 [All pictures](photos)
 
-# TODO
-- General info
-- Topo
+# Topo
+
+TODO
+
+# Story
+
+- [Day 1](day1.md)
