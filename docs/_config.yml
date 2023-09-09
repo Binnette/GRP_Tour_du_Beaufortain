@@ -1,0 +1,38 @@
+title: GRP Beaufortain 2023-09
+author:
+  name: Binnette
+description: >
+  GRP Tour du Beaufortain 2023-09
+
+show_excerpts: false # set to true to show excerpts on the homepage
+show_downloads: false
+
+minima:
+  skin: solarized
+  # generate social links in footer
+  social_links:
+    github: Binnette/GRP_Tour_du_Beaufortain
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: oinam/oinam-jekyll
+#remote_theme: eliottvincent/bay
+#remote_theme: jekyll/minima
+#remote_theme: pages-themes/slate@v0.2.0
+
+# oinam config
+layout:
+  theme: vintage
+titles_from_headings:
+  enabled: false
+  strip_title: false
+  collections: false
+footer:
+  credit: false
+  custom: true
+
+footer_custom: 'Made with ❤ by <a href="https://github.com/Binnette">Binnette</a>. Repo: <a href="https://github.com/Binnette/GRP_Tour_du_Beaufortain/">here</a>'

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, user-scalable=no" />
+      <title>⛰️ GRP Beaufortain - GRP Tour du Beaufortain 2023-09</title>
+      <link rel="stylesheet" href="public/lightgallery/css/lightgallery.css" />
+      <link rel="stylesheet" href="public/videojs/video-js.min.css" />
+      <link rel="stylesheet" href="public/lightgallery/css/lg-exif.min.css" />
+      <link rel="stylesheet" href="public/core.css" />
+      <link rel="stylesheet" href="public/theme.css" />
+  </head>
+
+  <body>
+
+    
+    <div id="container">
+    
+      <!--
+        Gallery title
+      -->
+      <header>
+        <h1><a href="index.html">⛰️ GRP Beaufortain</a></h1>
+      </header>
+    
+      <!--
+        Breadcrumbs of parent albums
+      -->
+      <nav class="breadcrumbs">
+    <a class="breadcrumb-item" href="index.html">GRP Tour du Beaufortain 2023-09</a>
+      </nav>
+    
+      <!--
+        Nested albums, if any
+      -->
+      <div id="albums">
+    <a href="Day-7.html" style="background-image: url('media/small/Day%207/20230908_092614.jpg')">
+            <div class="info">
+              <h3>Day 7</h3>
+              <div class="summary">58 photos</div>
+              <div class="date">08 Sep 2023 - 08 Sep 2023</div>
+            </div>
+          </a><a href="Day-6.html" style="background-image: url('media/small/Day%206/20230907_085959.jpg')">
+            <div class="info">
+              <h3>Day 6</h3>
+              <div class="summary">28 photos</div>
+              <div class="date">07 Sep 2023 - 07 Sep 2023</div>
+            </div>
+          </a><a href="Day-5.html" style="background-image: url('media/small/Day%205/20230906_090727.jpg')">
+            <div class="info">
+              <h3>Day 5</h3>
+              <div class="summary">49 photos</div>
+              <div class="date">06 Sep 2023 - 06 Sep 2023</div>
+            </div>
+          </a><a href="Day-4.html" style="background-image: url('media/small/Day%204/20230905_084823.jpg')">
+            <div class="info">
+              <h3>Day 4</h3>
+              <div class="summary">51 photos, 1 video</div>
+              <div class="date">05 Sep 2023 - 05 Sep 2023</div>
+            </div>
+          </a><a href="Day-3.html" style="background-image: url('media/small/Day%203/20230904_090705.jpg')">
+            <div class="info">
+              <h3>Day 3</h3>
+              <div class="summary">28 photos</div>
+              <div class="date">04 Sep 2023 - 04 Sep 2023</div>
+            </div>
+          </a><a href="Day-2.html" style="background-image: url('media/small/Day%202/20230903_092219.jpg')">
+            <div class="info">
+              <h3>Day 2</h3>
+              <div class="summary">46 photos</div>
+              <div class="date">03 Sep 2023 - 03 Sep 2023</div>
+            </div>
+          </a><a href="Day-1.html" style="background-image: url('media/small/Day%201/20230902_110922.jpg')">
+            <div class="info">
+              <h3>Day 1</h3>
+              <div class="summary">32 photos</div>
+              <div class="date">02 Sep 2023 - 02 Sep 2023</div>
+            </div>
+          </a>  </div>
+    
+      <!--
+        All photos and videos
+      -->
+      <ul id="media" class="clearfix">
+      </ul>
+    
+      <!--
+        Pagination
+      -->
+    
+      <!--
+        Zip file link
+      -->
+    
+    
+      <!--
+        Optional footer
+      -->
+      <footer>
+        <p>GRP Tour du Beaufortain 2023-09</p>
+      </footer>
+    
+    </div>
+    <!-- Video loader -->
+    <div id="videos">
+    </div>
+
+    <!-- jQuery -->
+    <script src="public/jquery.min.js"></script>
+    <!-- VideoJS -->
+    <script src="public/videojs/video.min.js"></script>
+    <!-- LightGallery -->
+    <script src="public/lightgallery/js/lightgallery.js"></script>
+    <script src="public/lightgallery/js/lg-autoplay.js"></script>
+    <script src="public/lightgallery/js/lg-pager.js"></script>
+    <script src="public/lightgallery/js/lg-thumbnail.js"></script>
+    <script src="public/lightgallery/js/lg-video.js"></script>
+    <script src="public/lightgallery/js/lg-exif.min.js"></script>
+
+    <script>
+      $(document).ready(function() {
+        $("#media").lightGallery({
+          thumbWidth: 80,
+          controls: true,
+          loop : false,
+          download: true,
+          counter: true,
+          videojs: true
+        });
+      });
+    </script>
+
+
+  </body>
+
+</html>
