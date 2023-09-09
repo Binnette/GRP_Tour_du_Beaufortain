@@ -8,6 +8,18 @@
 
 TODO
 
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/treck-beaufortain_945878?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/treck-beaufortain_945878?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
+
+- [Full](https://brouter.de/brouter-web/#map=12/45.7099/6.5664/OpenTopoMap&lonlats=6.458923,45.720413;6.452794,45.721334;6.452757,45.72157;6.451077,45.729223;6.499572,45.753122;6.507275,45.76718;6.52799,45.782817;6.530567,45.787899;6.542916,45.773719;6.547723,45.762583;6.58941,45.771426;6.642459,45.794818;6.689601,45.763751;6.713526,45.750592;6.71799,45.746609;6.717322,45.722332;6.705565,45.71133;6.698699,45.70979;6.696639,45.700258;6.696084,45.674213;6.664785,45.64874;6.656663,45.645114;6.651235,45.638918;6.63939,45.637172;6.608457,45.617868;6.581841,45.651308;6.567721,45.647408;6.562539,45.652795;6.536264,45.645698;6.538539,45.654848;6.53355,45.657027;6.522724,45.656199;6.495845,45.659574;6.470711,45.684957;6.453127,45.702628;6.457627,45.718085;6.459119,45.71799;6.458808,45.718666;6.459478,45.719244;6.459832,45.719492;6.45936,45.720376&straight=1,35,37,38&profile=hiking-mountain)
+- [Day1](https://brouter.de/brouter-web/#map=13/45.7573/6.5096/standard&lonlats=6.458923,45.720413;6.452794,45.721334;6.452757,45.72157;6.451077,45.729223;6.499572,45.753122;6.507275,45.76718;6.52799,45.782817;6.530567,45.787899&straight=1&profile=hiking-mountain)
+- [Day2](https://brouter.de/brouter-web/#map=14/45.7785/6.5716/OpenTopoMap&lonlats=6.530567,45.787899;6.542916,45.773719;6.547723,45.762583;6.58941,45.771426;6.623297,45.794459&profile=hiking-mountain)
+- [Day3](https://brouter.de/brouter-web/#map=14/45.7737/6.6712/OpenTopoMap&lonlats=6.62323,45.794489;6.642496,45.794848;6.689601,45.763751;6.713526,45.750592&profile=hiking-mountain)
+- [Day4](https://brouter.de/brouter-web/#map=12/45.7075/6.7037/OpenTopoMap&lonlats=6.713526,45.750592;6.71799,45.746609;6.717322,45.722332;6.705565,45.71133;6.698699,45.70979;6.696639,45.700258;6.696084,45.674213;6.664785,45.64874&profile=hiking-mountain)
+- [Day5](https://brouter.de/brouter-web/#map=14/45.6361/6.6209/OpenTopoMap&lonlats=6.664785,45.64874;6.656663,45.645114;6.651235,45.638918;6.63939,45.637172;6.608457,45.617868;6.581841,45.651308&profile=hiking-mountain)
+- [Day6](https://brouter.de/brouter-web/#map=14/45.6521/6.5424/OpenTopoMap&lonlats=6.581841,45.651308;6.567721,45.647408;6.562539,45.652795;6.536264,45.645698;6.538539,45.654848;6.53355,45.657027;6.522724,45.656199;6.497254,45.657938&profile=hiking-mountain)
+- [Day7](https://brouter.de/brouter-web/#map=13/45.6852/6.4878/OpenTopoMap&lonlats=6.497265,45.658245;6.470711,45.684957;6.453127,45.702628;6.457627,45.718085;6.459119,45.71799;6.458808,45.718666;6.459478,45.719244;6.459832,45.719492;6.45936,45.720376&straight=3,5,6&profile=hiking-mountain)
+
+
 # Story
 
 - [Day 1](day1.md)
