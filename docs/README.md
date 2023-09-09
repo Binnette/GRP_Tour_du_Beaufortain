@@ -22,4 +22,4 @@ TODO
 
 # Story
 
-- [Day 1](docs/day1.md)
+- [Day 1](day1.md)
