@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 : from Queiche to Refuge du Lachat
 
 We drive and left our car in a parking spot near the church in Queige. [Here](https://osm.org/go/0CGCPrkVC?m=):
 

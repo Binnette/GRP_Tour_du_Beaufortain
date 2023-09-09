@@ -10,5 +10,5 @@
   "sort-albums-direction": "asc",
   "theme-style": "./conf/custom.css",
   "album-previews": "first",
-  "footer": "GRP Tour du Beaufortain 2023-09"
+  "footer": "<a href='https://binnette.github.io/GRP_Tour_du_Beaufortain/'>Back to website</a>"
 }
