@@ -1,0 +1,14 @@
+{
+  "input": "originals",
+  "output": "./docs",
+  "title": "⛰️ GRP Beaufortain",
+  "home-album-name": "GRP Tour du Beaufortain 2023-09",
+  "sort-albums-by": "title",
+  "theme": "cards",
+  "photo-download": "link",
+  "link-prefix": "https://raw.githubusercontent.com/Binnette/GRP_Tour_du_Beaufortain/master/original",
+  "sort-albums-direction": "desc",
+  "theme-style": "./conf/custom.css",
+  "album-previews": "first",
+  "footer": "GRP Tour du Beaufortain 2023-09"
+}
