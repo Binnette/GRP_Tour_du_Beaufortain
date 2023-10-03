@@ -1,4 +1,4 @@
-# Day 3 : from Croix de Pierre to Plan Jovet
+# Day 3: from Croix de Pierre to Plan Jovet
 
 We woke up to a magnificent sight of the mountains, shimmering like waves of sand in the morning light.
 
@@ -18,14 +18,6 @@ From there, we decided to take a different route from the official GR and headed
 
 After the Col de la Fenêtre, we passed by an old mine and filled up our bottles with cold water that came out of a large concrete pipe. It was a nice surprise to find such a refreshing source. We continued our hike until we arrived at Plan du Jovet, where we enjoyed a cold but very welcome bath in the stream. We also washed some of our clothes with nothing but the pure water. It felt good to be clean and relaxed after a long day of hiking. Finaly we set up our tents for the night.
 
-<div style="float: left;">
+⬅️ Back to [Day 3](day3.md){: style="float: left"} 
 
-⬅️ Back to [Day 3](day3.md)
-
-</div>
-
-<div style="float: right">
-
-Continue to [Day 4](day4.md).
-
-</div>
+➡️ Continue to [Day 4](day4.md){: style="float: right"}

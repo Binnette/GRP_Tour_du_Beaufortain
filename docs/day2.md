@@ -1,4 +1,4 @@
-# Day 2 : from Refuge du Lachat to Croix de Pierre
+# Day 2: from Refuge du Lachat to Croix de Pierre
 
 We started by crossing a wooden bridge over the Nant Rouge stream:
 
