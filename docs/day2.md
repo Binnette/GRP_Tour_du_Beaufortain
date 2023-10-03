@@ -32,13 +32,13 @@ We had a bad surprise at the end of the day when we realized that my friend's ba
 
 ![Torn apart backpack](<photos/media/large/Day 2/20230903_184700.jpg>)
 
-<div style="float: left;">
+<div markdown="1" style="float: left;">
 
 ⬅️ Back to [Day 2](day2.md)
 
 </div>
 
-<div style="float: right;">
+<div markdown="1" style="float: right;">
 
 ➡️ Continue to [Day 3](day3.md)
 
