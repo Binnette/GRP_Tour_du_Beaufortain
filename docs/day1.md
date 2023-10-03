@@ -34,6 +34,12 @@ We found the spot and set up our tent. We were happy to have a place to sleep fo
 
 ![Moon](<photos/media/large/Day 1/20230902_220831.jpg>)
 
+<div markdown="1" style="text-align: center;">
+
+📷️ [Day 1 pictures](photos/Day-1.html)
+
+</div>
+
 <div markdown="1" style="float: right;">
 
 ➡️ Continue to [Day 2](day2.md)
