@@ -30,7 +30,7 @@ The keepers advised us to camp near the Croix de Pierre, but we decided to go a 
 
 Our spot for the night:
 
-<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.587119102478028%2C45.7810526257139%2C6.658787727355958%2C45.80798244671757&amp;layer=tracestracktopo&amp;marker=45.79451916288983%2C6.622953414916992" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.587119102478028%2C45.7810526257139%2C6.658787727355958%2C45.80798244671757&amp;layer=mapnik&amp;marker=45.79451916288983%2C6.622953414916992" style="border: 1px solid black"></iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=45.7945&amp;mlon=6.6230#map=15/45.7945/6.6230&amp;layers=P">View Larger Map</a></small>
 
 We had a bad surprise at the end of the day when we realized that my friend's backpack was torn apart. A huge hole had opened from the top to the bottom of his backpack, exposing his belongings. We hoped that it would hold up until the end of the trek and crossed our fingers.
