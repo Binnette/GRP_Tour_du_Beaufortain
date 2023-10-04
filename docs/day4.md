@@ -36,6 +36,11 @@ Just before dusk, we saw an old Alpine ibex (Bouquetin) grazing near the refuge.
 
 ![Pierra Menta](<photos/media/large/Day 4/20230905_195908.jpg>)
 
+Our dirty wet reserved spot for the night:
+
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.647458076477052%2C45.641572878884524%2C6.6832923889160165%2C45.6550730688633&amp;layer=tracestracktopo&amp;marker=45.64832338059471%2C6.665375232696533" style="border: 1px solid black"></iframe>
+<small><a href="https://www.openstreetmap.org/?mlat=45.6483&amp;mlon=6.6654#map=16/45.6483/6.6654&amp;layers=P">View Larger Map</a></small>
+
 <div markdown="1" style="text-align: center;">
 
 📷️ [Day 4 pictures](photos/Day-4.html)
