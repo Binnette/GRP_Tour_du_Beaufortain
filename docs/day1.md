@@ -27,11 +27,11 @@ After some landscape contemplation...
 
 ![Landscape](<photos/media/large/Day 1/20230902_153634.jpg>)
 
-We arrived at the “Refuge du Lachat”, where hikers can stay overnight. We asked the owner if he had a place where we could pitch our tent. He recommended us a spot within 5min of walking from the refuge:
+We arrived at the “Refuge du Lachat”, where hikers can stay overnight. We asked the owner if he had a place where we could pitch our tents. He recommended us a spot within 5min of walking from the refuge:
 
 <iframe width="100" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5127038955688485%2C45.78115737800108%2C6.548538208007813%2C45.79462388987303&amp;layer=tracestracktopo&amp;marker=45.78789104060819%2C6.53062105178833" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=45.7879&amp;mlon=6.5306#map=16/45.7879/6.5306&amp;layers=P">View Larger Map</a></small>
 
-We found the spot and set up our tent. We were happy to have a place to sleep for the night. We watched the moon rise over the mountains and admired its light. We had a peaceful and pleasant night.
+We found the spot and set up our tents. We were happy to have a place to sleep for the night. We watched the moon rise over the mountains and admired its light. We had a peaceful and pleasant night.
 
 ![Moon](<photos/media/large/Day 1/20230902_220831.jpg>)
 

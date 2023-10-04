@@ -1,6 +1,6 @@
 # Day 4: from Plan Jovet to Refuge de Presset
 
-We got up and peeked out of our tent, and saw a lot of hikers ascending the mountain. We realized that we were sharing the trail with the TMB trekkers (Tour du Mont Blanc). We felt lucky to explore the quieter mountains of the GRP Tour du Beaufortain. Many of the TMB trekkers passed us on the flat section of the trail, but we soon caught up with them as the trail began to climb. We chatted with some of them, who came from Canada, England, USA, and other countries. We reached Col du Bonhomme and admired the view:
+We got up and peeked out of our tents, and saw a lot of hikers ascending the mountain. We realized that we were sharing the trail with the TMB trekkers (Tour du Mont Blanc). We felt lucky to explore the quieter mountains of the GRP Tour du Beaufortain. Many of the TMB trekkers passed us on the flat section of the trail, but we soon caught up with them as the trail began to climb. We chatted with some of them, who came from Canada, England, USA, and other countries. We reached Col du Bonhomme and admired the view:
 
 ![Col du Bonhomme](<photos/media/large/Day 4/20230905_095052.jpg>)
 
@@ -28,7 +28,7 @@ After this long day of hiking, we were glad to see Refuge de Presset when we rea
 
 ![Col du Grand Fond](<photos/media/large/Day 4/20230905_175257.jpg>)
 
-At the refuge, we were warmly greeted by the staff. After having a fresh drink, one of them showed us our tent reservation for tonight (we made a free reservation by phone the same day around 2pm). Tonight we cooked and ate our food, with a scenic view of the beautiful mountain named Pierra Menta.
+At the refuge, we were warmly greeted by the staff. After having a fresh drink, one of them showed us our reserved area for tonight (we made a free reservation by phone the same day around 2pm). Tonight we cooked and ate our food, with a scenic view of the beautiful mountain named Pierra Menta.
 
 ![Pierra Menta](<photos/media/large/Day 4/20230905_195908.jpg>)
 

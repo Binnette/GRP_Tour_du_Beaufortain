@@ -44,7 +44,7 @@ We decided to camp there for the night. As it was forbidden to camp within 100m 
 
 ![Lac de Saint-Guérin sign](<photos/media/large/Day 6/20230907_085959.jpg>)
 
-And we eventually found a nice flat spot to pitch our tent near this parking lot:
+And we eventually found a nice flat spot to pitch our tents near this parking lot:
 
 <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.564009189605714%2C45.644543199853295%2C6.599843502044679%2C45.6580426740043&amp;layer=tracestracktopo&amp;marker=45.65129334364864%2C6.581926345825195" style="border: 1px solid black"></iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=45.6513&amp;mlon=6.5819#map=16/45.6513/6.5819&amp;layers=P">View Larger Map</a></small>
