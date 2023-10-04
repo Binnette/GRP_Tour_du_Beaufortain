@@ -2,7 +2,7 @@
 
 We drive and left our car in a parking spot near the church in Queige. [Here](https://osm.org/go/0CGCPrkVC?m=):
 
-<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.454467773437501%2C45.718877384399214%2C6.463426351547241%2C45.722248076494566&amp;layer=cyclemap&amp;marker=45.72056275586542%2C6.458947062492371" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.454467773437501%2C45.718877384399214%2C6.463426351547241%2C45.722248076494566&amp;layer=cyclosm&amp;marker=45.72056275586542%2C6.458947062492371" style="border: 1px solid black"></iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=45.72056&amp;mlon=6.45895#map=18/45.72056/6.45895&amp;layers=C">View Larger Map</a></small>
 
 We were told by the townhall secretary that if this parking was full, we could use another one nearby: here is the location of the alternative parking: [here](https://osm.org/go/0CGCPowi_?m=).
@@ -29,7 +29,7 @@ After some landscape contemplation...
 
 We arrived at the “Refuge du Lachat”, where hikers can stay overnight. We asked the owner if he had a place where we could pitch our tents. He recommended us a spot within 5min of walking from the refuge:
 
-<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5127038955688485%2C45.78115737800108%2C6.548538208007813%2C45.79462388987303&amp;layer=mapnik&amp;marker=45.78789104060819%2C6.53062105178833" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.5127038955688485%2C45.78115737800108%2C6.548538208007813%2C45.79462388987303&amp;layer=cyclosm&amp;marker=45.78789104060819%2C6.53062105178833" style="border: 1px solid black"></iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=45.7879&amp;mlon=6.5306#map=16/45.7879/6.5306&amp;layers=P">View Larger Map</a></small>
 
 
